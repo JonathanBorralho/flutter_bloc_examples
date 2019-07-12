@@ -1,5 +1,5 @@
 import 'package:flutter/widgets.dart';
-import 'package:login_bloc/blocs/authentication/authentication.dart';
+import 'package:login_bloc/blocs/authentication/bloc.dart';
 import 'package:login_bloc/blocs/login/login_event.dart';
 import 'package:login_bloc/blocs/login/login_state.dart';
 
